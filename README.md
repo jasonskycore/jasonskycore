@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Fernando</h1>
-<h3 align="center">I have a passion for creating intuitive and engaging user experiences</h3>
+<h3 align="center">As an iOS developer, I have a passion for creating intuitive and engaging user experiences. With a strong background in Swift and Xcode, I have a proven track record of developing successful apps that deliver on both form and function. Whether working independently or as part of a team, I am dedicated to staying up to date on the latest technologies and best practices in the field. In my free time, I enjoy attending developer conferences and staying active in the community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonskycore&label=Profile%20views&color=0e75b6&style=flat" alt="jasonskycore" /> </p>
 
